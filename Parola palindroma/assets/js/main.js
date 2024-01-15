@@ -3,6 +3,8 @@ do{
     parolaUtente = prompt("Inserisci una parola")
 } while (isNaN(parolaUtente ) === false);
 
+const arrayReverse = [];
+
 
 
 
@@ -61,7 +63,11 @@ function isPalindrome(parola){
     }    
 }
 
-const arrayReverse = [];
+
+
+
+
+
 
 function wordReverse (parola){
 

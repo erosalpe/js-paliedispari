@@ -61,48 +61,6 @@ function isPalindrome(parola){
     }    
 }
 
-isPalindrome(parolaUtente);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 const arrayReverse = [];
 
 function wordReverse (parola){
@@ -133,4 +91,6 @@ function wordReverse (parola){
 
 }
 
+
+isPalindrome(parolaUtente);
 wordReverse(parolaUtente);
